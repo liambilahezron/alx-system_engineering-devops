@@ -1,2 +1,2 @@
 #!/bin/bash
-qn 10: cd -
+cd -
